@@ -85,7 +85,7 @@
 // Write this loop in all 3 ways -- as a 'while', 'do while', and 'for' loop.
 
 // while
-    let i=   0;
+    let i=0;
     while (i <=100){
         console.log(i);
         i += 10;
@@ -106,6 +106,7 @@
 // Exercise 7. Add a comment as to why the following loop is an infinite loop (will
 // run without ever stopping). Then fix the loop so that it stops when
 // counterFour is equal to -100.
+
 
 // The loop is inifinite because counterFour will always be less than 2.
 
