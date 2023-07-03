@@ -121,6 +121,7 @@ const myAnswerForExercise22 = "true";
 // Congrats, you made it to the end!
 // Did you find this easy or hard? If you used references, which ones helped you?
 // Please answer in a comment below.
+
 // I found these challenges easy. I got a little stuck on 2 < 1 < 3, however stackoverflow helped me.
 
 // Email your file to the course staff,
